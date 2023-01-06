@@ -5,6 +5,7 @@ ESTG - Escola Superior de Tecnologia e Gestão
 LEAU- Licenciatura em Engenharia Automóvel
 SEEV - Sistemas Elétricos e Eletrónicos de Veículos
 
+https://www.youtube.com/watch?v=ljD6RqsBjPc
 
 O seguinte trabalho consiste na simulação da implementação de um indicador de mudanças numa motorizada.
 Neste projeto sera controlado a posição do pedal que coloca as mudanças através de dois sensores de hall
